@@ -1,0 +1,2 @@
+Firstly Install an IDE and Git.
+Secondly Install npm. Then install npm install -g browser-sync after that check the version browser-sync --version.

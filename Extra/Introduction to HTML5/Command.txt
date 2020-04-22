@@ -1,0 +1,4 @@
+
+------------------
+browser-sync FolderName --server --directory --files "*"
+------------------
